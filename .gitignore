@@ -1,9 +1,6 @@
 # IDEA config
 .idea/
 out/
-*.iml
-*.ipr
-*.iws
 
 # gradle build
 build/
@@ -35,6 +32,3 @@ hs_err_pid*
 
 # Minecraft env
 eclipse/
-
-# ForgeSrc
-ForgeSrc/
