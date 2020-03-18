@@ -1,3 +1,14 @@
+# IDEA config
+.idea/*
+out/
+*.iml
+*.ipr
+*.iws
+
+# gradle build
+build/
+.gradle/
+
 # Compiled class file
 *.class
 
@@ -21,3 +32,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Minecraft env
+eclipse/
+
+# ForgeSrc
+ForgeSrc/

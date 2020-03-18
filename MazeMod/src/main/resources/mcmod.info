@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Maze",
+  "name": "Maze Mod",
+  "description": "What if you really in a maze?",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Curatorjin"],
+  "credits": "Jin",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,3 @@
+rootProject.name = 'Minecraft_Mod'
+include 'MazeMod'
+include 'ForgeSrc'
