@@ -1,0 +1,16 @@
+[
+{
+  "modid": "PicWall",
+  "name": "Pic Wall",
+  "description": "Paint a wall with a picture!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Curatorjin"],
+  "credits": "Jin",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
